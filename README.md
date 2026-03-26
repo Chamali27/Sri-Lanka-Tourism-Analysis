@@ -10,7 +10,7 @@ The objective is to study tourism recovery after COVID-19, identify key source m
 ## Repository Structure
 ```
 dataset/
-└── Flight_Arrival_Performance.zip
+└── File1_Arrivals_Master.xlsx
 
 report/
 └── An Analysis of Sri Lanka Tourist Arrivals.pdf
@@ -105,7 +105,7 @@ Screenshot: `dashboard03.png`
 ---
 
 ## Dataset Information
-The dataset (`Flight_Arrival_Performance.zip`) includes:
+The dataset (`File1_Arrivals_Master.xlsx`) includes:
 - Cleaned and structured Excel files
 - Monthly arrival data
 - Country-level breakdowns
