@@ -1,13 +1,13 @@
 # 🇱🇰 Sri Lanka Tourist Arrivals Analysis (2020–2025) | Power BI Project
 
-## 📊 Project Overview
+## Project Overview
 This project presents a data-driven analysis of Sri Lanka tourist arrivals from 2020 to 2025 using official SLTDA data.
 
 The objective is to study tourism recovery after COVID-19, identify key source markets, and analyze seasonal travel patterns using interactive Power BI dashboards.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 dataset/
 └── Flight_Arrival_Performance.zip
@@ -22,7 +22,7 @@ dashboard/
 ├── dashboard02.png
 └── dashboard03.png
 ```
-```
+---
 
 ## Objectives
 - Analyze tourist arrival trends in Sri Lanka (2020–2025)
