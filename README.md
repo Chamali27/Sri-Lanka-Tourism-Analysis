@@ -8,7 +8,7 @@ The objective is to study tourism recovery after COVID-19, identify key source m
 ---
 
 ## 📁 Repository Structure
-
+```
 dataset/
 └── Flight_Arrival_Performance.zip
 
@@ -21,7 +21,7 @@ dashboard/
 ├── dashboard01.png
 ├── dashboard02.png
 └── dashboard03.png
-
+```
 ```
 
 ## Objectives
