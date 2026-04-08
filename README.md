@@ -36,7 +36,7 @@ dashboard/
 ## Data Source
 All data was obtained from official publications of the **Sri Lanka Tourism Development Authority (SLTDA)**:
 
-- Annual Statistical Reports (2020–2024)
+- Annual Statistical Reports (2020–2025)
 - Year-in-Review Reports
 - Monthly Excel datasets (2020–2025)
 
