@@ -73,7 +73,7 @@ Screenshot: `dashboard01.png`
 - Regional breakdown (Treemap)
 - India as dominant source market
 
-📸 Screenshot: `dashboard02.png`
+Screenshot: `dashboard02.png`
 
 ---
 
